@@ -1,0 +1,49 @@
+[
+    {
+        "titulo": "Clone Marvel",
+        "imgFilme": "./assets/filmeMarvell.png",
+        "description": " dropdown e carrousel",
+        "tecUsadas": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "link": "/"
+    },
+    {
+        "titulo": "ToDo List - Ignite",
+        "imgFilme": "./assets/todo-list-ignite.png",
+        "description": "BootCamp Ignite React JS - RocketSeat, TypeScript",
+        "tecUsadas": [
+            "HTML",
+            "CSS",
+            "React JS",
+            "TypeScript"
+        ],
+        "link": ""
+    },
+    {
+        "titulo": "Animais Fantásticos",
+        "imgFilme": "./assets/animaisFantasticos.png",
+        "description": "JavaScript . API",
+        "tecUsadas": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "link": ""
+
+    },
+    {
+        "titulo": "Dev Finances",
+        "imgFilme": "./assets/devFinances.png",
+        "description": " semana NLW - um mini banco de dados do Browser",
+        "tecUsadas": [
+            "HTML",
+            "CSS",
+            "JS"
+        ],
+        "link": ""
+        
+    }
+]

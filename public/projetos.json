@@ -1,0 +1,67 @@
+[
+  {
+    "imgModal": "./assets/imagesPagesFull/marvel.jpg",
+    "imgMini": "./assets/imagesMini/marvel.png",
+    "link": "/"
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/devfinances.jpg",
+    "imgMini": "./assets/imagesMini/devfinances.png",
+    "link": "",
+    "retrato": true
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/bikcraft.jpg",
+    "imgMini": "./assets/imagesMini/bikcraft.png",
+    "link": "/"
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/buypizzas.jpg",
+    "imgMini": "./assets/imagesMini/buypizzas.png",
+    "link": "/",
+    "retrato": true
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/animais-fantasticos.jpg",
+    "imgMini": "./assets/imagesMini/animais-fantasticos.png",
+    "link": "/"
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/happy.jpg",
+    "imgMini": "./assets/imagesMini/happy.png",
+    "link": "",
+    "retrato": true
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/medicenter.jpg",
+    "imgMini": "./assets/imagesMini/medicenter.png",
+    "link": ""
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/portifolio-antigo.jpg",
+    "imgMini": "./assets/imagesMini/portifolio-antigo.png",
+    "link": ""
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/technology.jpg",
+    "imgMini": "./assets/imagesMini/technology.png",
+    "link": ""
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/wildbeast.jpg",
+    "imgMini": "./assets/imagesMini/wildbeast.png",
+    "link": ""
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/todo-list-ignite.jpg",
+    "imgMini": "./assets/imagesMini/todo-list-ignite.png",
+    "link": "/",
+    "retrato": true
+  },
+  {
+    "imgModal": "./assets/imagesPagesFull/calculadora.jpg",
+    "imgMini": "./assets/imagesMini/calculadora.jpg",
+    "link": "",
+    "retrato": true
+  }
+]
