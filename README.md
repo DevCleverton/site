@@ -1,6 +1,4 @@
-# Meu Portfólio em React!
-
-Esse projeto você pode ver online em:
+# React  
 
 ## Tecnologias Usadas:
 
@@ -8,7 +6,7 @@ Esse projeto você pode ver online em:
 - React JS
 - Styled Components
 - React Lottie
-
+ ## DEPENDENCIAS
  ## instalaçao 
 
  yarn---
