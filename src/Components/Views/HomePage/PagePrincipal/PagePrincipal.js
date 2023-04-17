@@ -11,7 +11,7 @@ const PagePrincipal = () => {
       <TextApresentation />
       <Link className="link" to="/contato" data-aos-anchor=".sobre">
         <div className="bgc"></div>
-        <p>Me Contate !</p>
+        <p> Meu contato!</p>
       </Link>
       <LinkScroll
         className="link-sobre"
