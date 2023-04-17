@@ -84,13 +84,13 @@ const Experience = ({ setIsRotate }) => {
 
           <div className="empregos" data-aos-delay="500" data-aos="fade-down">
             <div className="card_emprego">
-              <h3>Front End </h3>
+              <h3>Novos trabalhos </h3>
 
               <p className="nome_empresa"> New Post </p>
 
               <div className="tempo">
                 <p>Atual</p>
-                <p>2021</p>
+                <p>2023</p>
               </div>
 
               <div className="texts">
