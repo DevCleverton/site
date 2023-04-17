@@ -5,9 +5,9 @@ const TextApresentation = () => {
   const linha2 = useRef();
   const linha3 = useRef();
 
-  const linha1Texto = "Seo Presença digital Softwares e Sites inteligentes".split("");
-  const linha2Texto = "Dev".split("");
-  const linha3Texto = "Cleverton".split("");
+  const linha1Texto = "Seo Presença digital ".split("");
+  const linha2Texto = "Softwares".split("");
+  const linha3Texto = "Sites inteligentes".split("");
 
   useEffect(() => {
     linha1Texto.forEach((letra, index) => {
