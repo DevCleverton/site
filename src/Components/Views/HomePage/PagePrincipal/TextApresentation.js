@@ -5,7 +5,7 @@ const TextApresentation = () => {
   const linha2 = useRef();
   const linha3 = useRef();
 
-  const linha1Texto = "Construindo com React".split("");
+  const linha1Texto = "Seo".split("");
   const linha2Texto = "Dev".split("");
   const linha3Texto = "Cleverton".split("");
 
