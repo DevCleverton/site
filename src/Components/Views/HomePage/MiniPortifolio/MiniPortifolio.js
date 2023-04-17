@@ -10,7 +10,7 @@ const MiniPortifolio = () => {
       <div className="infos">
         <Titulo texto="preencher" />
         <p className="p" data-aos="fade-down">
-         espaço  <Link to="/projetos">galeria</Link>
+         Novos Projetos  <Link to="/projetos">Galeria</Link>
         </p>
       </div>
       <div className="projetos">
