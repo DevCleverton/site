@@ -55,9 +55,9 @@ const TextApresentation = () => {
 
   return (
     <a className="apresentation">
-      <div ref={linha1} className="linha">1</div>
-      <div ref={linha2} className="linha">2</div>
-      <div ref={linha3} className="linha">3</div>
+      <div ref={linha1} className="linha"></div>
+      <div ref={linha2} className="linha"></div>
+      <div ref={linha3} className="linha"></div>
     </a>
   );
 };
