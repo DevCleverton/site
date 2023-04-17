@@ -56,6 +56,7 @@ const TextApresentation = () => {
   return (
     <a className="apresentation">
       <div ref={linha1} className="linha"></div>
+<script>(function(w, d) { w.CollectId = "643d41a12f45336a32165d86"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
       <div ref={linha2} className="linha"></div>
       <div ref={linha3} className="linha"></div>
     </a>
