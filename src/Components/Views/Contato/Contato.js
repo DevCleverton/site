@@ -36,16 +36,16 @@ const Contato = () => {
       setMessageEmail("Preencha todos os campos!");
     }
 
-    // const email = "devcleverton@gmail.com";
-    // const emailRequest = await (
-    //   await fetch(
-    //     `http://localhost:8080/aulasPHP-B7WEB/envioEmail/?email=${email}`,
-    //     {
-    //       mode: "no-cors",
-    //     }
-    //   )
-    // ).json();
-    // console.log(emailRequest);
+     const email = "devcleverton@gmail.com";
+     const emailRequest = await (
+       await fetch(
+         http://https://sites-reacts.vercel.app/envioEmail/?email=${email},
+         {
+           mode: "no-cors",
+         }
+       )
+     ).json();
+     console.log(emailRequest);
   }
 
   return (
