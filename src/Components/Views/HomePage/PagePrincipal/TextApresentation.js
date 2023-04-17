@@ -5,7 +5,7 @@ const TextApresentation = () => {
   const linha2 = useRef();
   const linha3 = useRef();
 
-  const linha1Texto = "Seo Presença digital ".split("");
+  const linha1Texto = "Presença digital ".split("");
   const linha2Texto = "Softwares".split("");
   const linha3Texto = "Sites inteligentes".split("");
 
@@ -19,7 +19,7 @@ const TextApresentation = () => {
       setTimeout(() => {
         linha1.current.append(span);
         span.classList.add("hover");
-      }, 40 * index);
+      }, 30 * index);
     });
 
     linha2Texto.forEach((letra, index) => {
@@ -33,7 +33,7 @@ const TextApresentation = () => {
         setTimeout(() => {
           linha2.current.append(span);
           span.classList.add("hover");
-        }, 50 * index);
+        }, 30 * index);
       }, 400);
     });
 
@@ -48,7 +48,7 @@ const TextApresentation = () => {
         setTimeout(() => {
           linha3.current.append(span);
           span.classList.add("hover");
-        }, 50 * index);
+        }, 30 * index);
       }, 24 * 30);
     });
   }, []);
