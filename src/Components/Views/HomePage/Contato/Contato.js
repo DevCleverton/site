@@ -79,7 +79,7 @@ const Contato = () => {
       <div className="info">
         <Titulo texto="Contato" />
         <p className="p" data-aos="fade-down">
-          Caso queira entrar em contato, segue abaixo minhas redes sociais
+           Segue abaixo  redes sociais
         </p>
       </div>
 
