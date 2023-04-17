@@ -36,7 +36,7 @@ const Header = () => {
       <div className="logo">
         <NavLink to="/">
           <img src={Logo} alt="logo" />
-          <p>Front-End</p>
+          <p>Seo</p>
         </NavLink>
       </div>
 
@@ -49,7 +49,7 @@ const Header = () => {
 
         <ul className="list-socials">
           <a
-            href="https://www.linkedin.com/in/"
+            href=""
             target="_blank"
             className="media-item"
             rel="noreferrer"
@@ -76,7 +76,7 @@ const Header = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/"
+            href=""
             target="_blank"
             className="media-item"
             rel="noreferrer"
