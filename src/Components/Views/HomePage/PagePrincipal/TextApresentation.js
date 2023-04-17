@@ -19,7 +19,7 @@ const TextApresentation = () => {
       setTimeout(() => {
         linha1.current.append(span);
         span.classList.add("hover");
-      }, 30 * index);
+      }, 40 * index);
     });
 
     linha2Texto.forEach((letra, index) => {
@@ -33,7 +33,7 @@ const TextApresentation = () => {
         setTimeout(() => {
           linha2.current.append(span);
           span.classList.add("hover");
-        }, 30 * index);
+        }, 50 * index);
       }, 400);
     });
 
@@ -48,7 +48,7 @@ const TextApresentation = () => {
         setTimeout(() => {
           linha3.current.append(span);
           span.classList.add("hover");
-        }, 30 * index);
+        }, 50 * index);
       }, 24 * 30);
     });
   }, []);
