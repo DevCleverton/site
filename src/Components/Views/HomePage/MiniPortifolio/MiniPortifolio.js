@@ -8,7 +8,7 @@ const MiniPortifolio = () => {
   return (
     <MiniPortifolioContainer className="section mini-port">
       <div className="infos">
-        <Titulo texto="Meu Portfólio" />
+        <Titulo texto="preencher" />
         <p className="p" data-aos="fade-down">
          espaço  <Link to="/projetos">galeria</Link>
         </p>
