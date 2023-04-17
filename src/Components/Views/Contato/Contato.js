@@ -39,7 +39,7 @@ const Contato = () => {
      const email = "devcleverton@gmail.com";
      const emailRequest = await (
        await fetch(
-         http://https://sites-reacts.vercel.app/envioEmail/?email=${email},
+         'http://https://sites-reacts.vercel.app/envioEmail/?email=${email},'
          {
            mode: "no-cors",
          }
