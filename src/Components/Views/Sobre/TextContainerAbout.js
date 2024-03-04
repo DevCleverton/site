@@ -7,8 +7,8 @@ const TextContainerAbout = () => {
     <div className="text_about div">
       <Titulo texto="Sobre Mim" />
       <p className="p" data-aos="fade-down" data-aos-delay="300">
-        Desenvolvedor Front End . 
-        paixão por UI/UX, animações e uma criação intuitiva e dinâmica
+        Desenvolver. 
+        paixão por animações e uma criação intuitiva e dinâmica
         para o usuário
       </p>
       <p className="p" data-aos="fade-down" data-aos-delay="600">
