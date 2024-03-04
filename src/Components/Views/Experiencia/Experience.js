@@ -90,7 +90,7 @@ const Experience = ({ setIsRotate }) => {
 
               <div className="tempo">
                 <p>Atual</p>
-                <p>2023</p>
+                <p>2024</p>
               </div>
 
               <div className="texts">
