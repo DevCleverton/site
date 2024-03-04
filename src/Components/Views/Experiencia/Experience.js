@@ -63,7 +63,7 @@ const Experience = ({ setIsRotate }) => {
               </p>
 
               <p className="tec_item">
-                HTML <i className="fab fa-html5 fa-2x"></i>
+                HTML5 <i className="fab fa-html5 fa-2x"></i>
               </p>
 
               <p className="tec_item">
@@ -84,7 +84,7 @@ const Experience = ({ setIsRotate }) => {
 
           <div className="empregos" data-aos-delay="500" data-aos="fade-down">
             <div className="card_emprego">
-              <h3>Novos trabalhos </h3>
+              <h3>Trabalhos </h3>
 
               <p className="nome_empresa"> New Post </p>
 
@@ -95,8 +95,7 @@ const Experience = ({ setIsRotate }) => {
 
               <div className="texts">
                 <p>
-                  Responsável pela interface dos sistemas, a interatividade,
-                  usabilidade e responsividade
+                  ESTE SITE É MERAMENTE ILUSTRATIVO
                 </p>
               </div>
             </div>
