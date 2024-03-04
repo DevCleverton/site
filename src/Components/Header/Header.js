@@ -67,7 +67,7 @@ const Header = () => {
           </a>
 
           <a
-            href="https://api.whatsapp.com/send?phone=5547997511535&amp;text=Ol%C3%A1!%20Olhei%20seu%20portif%C3%B3lio%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
+            href="https://api.whatsapp.com/send?phone=5547933008459&amp;text=Ol%C3%A1!%20Olhei%20seu%20portif%C3%B3lio%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es"
             target="_blank"
             className="media-item"
             rel="noreferrer"
